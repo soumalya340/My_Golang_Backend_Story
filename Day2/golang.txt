@@ -1,0 +1,69 @@
+1. Build a RESTful API Service with Authentication
+   - Implement JWT authentication
+   - CRUD operations
+   - Database integration (PostgreSQL)
+   - Request validation
+   - API documentation with Swagger
+
+2. Real-time Chat Application
+   - WebSocket implementation
+   - User authentication
+   - Private and group chat rooms
+   - Message persistence
+   - Online status tracking
+
+3. File Storage Service
+   - File upload/download functionality
+   - Cloud storage integration (S3/GCS)
+   - File metadata management
+   - Access control
+   - Compression and encryption
+
+4. Task Scheduler System
+   - Cron job implementation
+   - Task queuing
+   - Worker pools
+   - Job status tracking
+   - Error handling and retries
+
+5. Microservices-based E-commerce Platform
+   - Service discovery
+   - API Gateway
+   - Order processing
+   - Inventory management
+   - Payment integration
+
+6. CLI Tool for System Monitoring
+   - Resource usage tracking
+   - Log analysis
+   - Alert system
+   - Configuration management
+   - Performance metrics
+
+7. Distributed Cache Implementation
+   - Cache consistency
+   - Data partitioning
+   - Replication
+   - Eviction policies
+   - Cluster management
+
+8. Web Crawler
+   - Concurrent crawling
+   - Data extraction
+   - URL filtering
+   - Rate limiting
+   - Data storage
+
+9. Load Balancer
+   - Health checking
+   - Traffic distribution
+   - Session persistence
+   - SSL termination
+   - Logging and monitoring
+
+10. Message Queue System
+    - Publisher/Subscriber pattern
+    - Message persistence
+    - Topic management
+    - Dead letter queues
+    - Performance optimization
