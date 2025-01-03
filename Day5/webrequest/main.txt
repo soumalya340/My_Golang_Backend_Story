@@ -1,0 +1,23 @@
+package main
+
+import (
+	"fmt"
+	"net/http"
+)
+
+func main() {
+	// HandleFunc registers a handler function for the root path "/"
+	// When a request is made to the root URL, it will execute this handler
+	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		// Write "Hello, World!" as the response to any request
+		fmt.Fprintf(w, "Hello, World!")
+	})
+
+	// Start the HTTP server and listen for incoming connections on port 8080
+	// The nil parameter means using the default ServeMux (request multiplexer)
+	http.ListenAndServe(":8080", nil)
+	// Log that the server is starting
+	fmt.Println("Server starting on port 8080...")
+
+	 
+}

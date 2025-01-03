@@ -1,0 +1,24 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "name": "John Smith",
+            "grade": 85
+        },
+        {
+            "id": "2", 
+            "name": "Sarah Johnson",
+            "grade": 92
+        },
+        {
+            "id": "3",
+            "name": "Michael Williams",
+            "grade": 78
+        },
+        {
+            "id": "4",
+            "name": "Emily Brown",
+            "grade": 95
+        }
+    ]
+}
